@@ -1,0 +1,23 @@
+<?php
+
+return [
+    'mongo' => [
+        'options' => [
+            'username' => 'services_realvia_sk',
+            'password' => 'h5XSeCwNfDHC39P7prVLNxoXfs4QkhrQ',
+            'db' => 'services_realvia_sk',
+        ],
+        'server' => '10.80.107.31:27017',
+        // 'server' => '185.59.208.12:27017', // from localhost
+    ],
+    'email' => [
+        'name'              => 'localhost.localdomain',
+        'host'              => 'smtp.websupport.sk',
+        'connection_class'  => 'login',
+        'connection_config' => [
+            'username' => 'do-not-reply@realvia.sk',
+            'password' => 'Dv9.rQe&\(',
+        ]
+    ]
+
+];

@@ -1,0 +1,642 @@
+AT11;AT1;Burgenland
+AT12;AT1;Niederösterreich
+AT13;AT1;Wien
+AT21;AT2;Kärnten
+AT22;AT2;Steiermark
+AT31;AT3;Oberösterreich
+AT32;AT3;Salzburg
+AT33;AT3;Tirol
+AT34;AT3;Vorarlberg
+BE10;BE1;Brussels Hoofdstedelijk Gewest
+BE21;BE2;Prov. Antwerpen
+BE22;BE2;Prov. Limburg (B)
+BE23;BE2;Prov. Oost-Vlaanderen
+BE24;BE2;Prov. Vlaams-Brabant
+BE25;BE2;Prov. West-Vlaanderen
+BE31;BE3;Prov. Brabant Wallon
+BE32;BE3;Prov. Hainaut
+BE33;BE3;Prov. Liege
+BE34;BE3;Prov. Luxembourg (B)
+BE35;BE3;Prov. Namur
+BG11;BG1;Severozapaden
+BG12;BG1;Severen tsentralen
+BG13;BG1;Severoiztochen
+BG21;BG2;Yugozapaden
+BG22;BG2;Yuzhen tsentralen
+BG23;BG2;Yugoiztochen
+CR101;CR1;Alajuela
+CR102;CR1;Grecia
+CR103;CR1;Naranjo
+CR104;CR1;San Carlos
+CR105;CR1;San Ramón
+CR106;CR1;Upala
+CR207;CR2;Cartago
+CR208;CR2;La Unión
+CR209;CR2;Oreamuno
+CR210;CR2;Paraíso
+CR211;CR2;Turrialba
+CR312;CR3;Liberia
+CR313;CR3;Nicoya
+CR314;CR3;Santa Cruz
+CR415;CR4;Heredia
+CR416;CR4;San Rafael
+CR417;CR4;Santo Domingo
+CR418;CR4;Sarapiquí
+CR519;CR5;Guácimo
+CR520;CR5;Limón
+CR521;CR5;Pococí
+CR522;CR5;Siquirres
+CR623;CR6;Buenos Aires
+CR624;CR6;Corredores
+CR625;CR6;Coto Brus
+CR626;CR6;Golfito
+CR627;CR6;Puntarenas
+CR728;CR7;Alajuelita
+CR729;CR7;Aserrí
+CR730;CR7;Curridabat
+CR731;CR7;Desamparados
+CR732;CR7;Escazú
+CR733;CR7;Goicoechea
+CR734;CR7;Montes de Oca
+CR735;CR7;Moravia
+CR736;CR7;Pérez Zeledón
+CR737;CR7;San José
+CR738;CR7;Santa Ana
+CR739;CR7;Tibás
+CR740;CR7;Vázquez de Coronado
+CY00;CY0;Kypros
+CZ3101;CZ19;Praha 1
+CZ3102;CZ19;Praha 2
+CZ3103;CZ19;Praha 3
+CZ3104;CZ19;Praha 4
+CZ3105;CZ19;Praha 5
+CZ3106;CZ19;Praha 6
+CZ3107;CZ19;Praha 7
+CZ3108;CZ19;Praha 8
+CZ3109;CZ19;Praha 9
+CZ3110;CZ19;Praha 10
+CZ3201;CZ27;Benešov
+CZ3202;CZ27;Beroun
+CZ3203;CZ27;Kladno
+CZ3204;CZ27;Kolín
+CZ3205;CZ27;Kutná Hora
+CZ3206;CZ27;Mělník
+CZ3207;CZ27;Mladá Boleslav
+CZ3208;CZ27;Nymburk
+CZ3209;CZ27;Praha-východ
+CZ3210;CZ27;Praha-západ
+CZ3211;CZ27;Příbram
+CZ3212;CZ27;Rakovník
+CZ3301;CZ35;České Budějovice
+CZ3302;CZ35;Český Krumlov
+CZ3303;CZ35;Jindřichův Hradec
+CZ3304;CZ108;Pelhřimov
+CZ3305;CZ35;Písek
+CZ3306;CZ35;Prachatice
+CZ3307;CZ35;Strakonice
+CZ3308;CZ35;Tábor
+CZ3401;CZ43;Domažlice
+CZ3402;CZ51;Cheb
+CZ3403;CZ51;Karlovy Vary
+CZ3404;CZ43;Klatovy
+CZ3405;CZ43;Plzeň-město
+CZ3406;CZ43;Plzeň-jih
+CZ3407;CZ43;Plzeň-sever
+CZ3408;CZ43;Rokycany
+CZ3409;CZ51;Sokolov
+CZ3410;CZ43;Tachov
+CZ3501;CZ78;Česká Lípa
+CZ3502;CZ60;Děčín
+CZ3503;CZ60;Chomutov
+CZ3504;CZ78;Jablonec nad Nisou
+CZ3505;CZ78;Liberec
+CZ3506;CZ60;Litoměřice
+CZ3507;CZ60;Louny
+CZ3508;CZ60;Most
+CZ3509;CZ60;Teplice
+CZ3510;CZ60;Ústí nad Labem
+CZ3601;CZ108;Havlíčkův Brod
+CZ3602;CZ86;Hradec Králové
+CZ3603;CZ94;Chrudim
+CZ3604;CZ86;Jičín
+CZ3605;CZ86;Náchod
+CZ3606;CZ94;Pardubice
+CZ3607;CZ86;Rychnov nad Kněžnou
+CZ3608;CZ78;Semily
+CZ3609;CZ94;Svitavy
+CZ3610;CZ86;Trutnov
+CZ3611;CZ94;Ústí nad Orlicí
+CZ3701;CZ116;Blansko
+CZ3702;CZ116;Brno-město
+CZ3703;CZ116;Brno-venkov
+CZ3704;CZ116;Břeclav
+CZ3705;CZ141;Zlín
+CZ3706;CZ116;Hodonín
+CZ3707;CZ108;Jihlava
+CZ3708;CZ141;Kroměříž
+CZ3709;CZ124;Prostějov
+CZ3710;CZ108;Třebíč
+CZ3711;CZ141;Uherské Hradiště
+CZ3712;CZ116;Vyškov
+CZ3713;CZ116;Znojmo
+CZ3714;CZ108;Žďár nad Sázavou
+CZ3801;CZ132;Bruntál
+CZ3802;CZ132;Frýdek-Místek
+CZ3803;CZ132;Karviná
+CZ3804;CZ132;Nový Jičín
+CZ3805;CZ124;Olomouc
+CZ3806;CZ132;Opava
+CZ3807;CZ132;Ostrava-město
+CZ3808;CZ124;Přerov
+CZ3809;CZ124;Šumperk
+CZ3810;CZ141;Vsetín
+CZ3811;CZ124;Jeseník
+DE11;DE1;Stuttgart
+DE12;DE1;Karlsruhe
+DE13;DE1;Freiburg
+DE14;DE1;Tübingen
+DE21;DE2;Oberbayern
+DE22;DE2;Niederbayern
+DE23;DE2;Oberpfalz
+DE24;DE2;Oberfranken
+DE25;DE2;Mittelfranken
+DE26;DE2;Unterfranken
+DE27;DE2;Schwaben
+DE30;DE3;Berlin
+DE41;DE4;Brandenburg - Nordost
+DE42;DE4;Brandenburg - Südwest
+DE50;DE5;Bremen
+DE60;DE6;Hamburg
+DE71;DE7;Darmstadt
+DE72;DE7;Gießen
+DE73;DE7;Kassel
+DE80;DE8;Mecklenburg-Vorpommern
+DE91;DE9;Braunschweig
+DE92;DE9;Hannover
+DE93;DE9;Lüneburg
+DE94;DE9;Weser-Ems
+DEA1;DEA;Düsseldorf
+DEA2;DEA;Köln
+DEA3;DEA;Münster
+DEA4;DEA;Detmold
+DEA5;DEA;Arnsberg
+DEB1;DEB;Koblenz
+DEB2;DEB;Trier
+DEB3;DEB;Rheinhessen-Pfalz
+DEC0;DEC;Saarland
+DED1;DED;Chemnitz
+DED2;DED;Dresden
+DED3;DED;Leipzig
+DEE1;DEE;Dessau
+DEE2;DEE;Halle
+DEE3;DEE;Magdeburg
+DEF0;DEF;Schleswig-Holstein
+DEG0;DEG;Thüringen
+DK00;DK0;Danmark
+EE00;EE0;Eesti
+EG221;EG22;Hurghada
+EG222;EG22;Safaga
+EG223;EG22;Marsa Alam
+EG224;EG22;Sahl Hasheesh
+EG225;EG22;El Gouna
+EG251;EG25;Sharm El Sheikh
+EG252;EG25;Nabq Bay
+EG253;EG25;Naama Bay
+EG254;EG25;Hadaba
+EG255;EG25;Sharks Bay
+EG256;EG25;Hay El Nour
+ES11;ES1;Galicia
+ES12;ES1;Principado de Asturias
+ES13;ES1;Cantabria
+ES21;ES2;País Vasco
+ES22;ES2;Comunidad Foral de Navarra
+ES23;ES2;La Rioja
+ES24;ES2;Aragón
+ES30;ES3;Comunidad de Madrid
+ES41;ES4;Castilla y León
+ES42;ES4;Castilla-La Mancha
+ES43;ES4;Extremadura
+ES51;ES5;Cataluna
+ES52;ES5;Comunidad Valenciana
+ES53;ES5;Illes Balears
+ES61;ES6;Andalucía
+ES62;ES6;Región de Murcia
+ES63;ES6;Ciudad Autónoma de Ceuta
+ES64;ES6;Ciudad Autónoma de Melilla
+ES70;ES7;Canarias
+FI13;FI1;Itä-Suomi
+FI18;FI1;Etelä-Suomi
+FI19;FI1;Länsi-Suomi
+FI1A;FI1;Pohjois-Suomi
+FI20;FI2;Aland
+FR10;FR1;Île de France
+FR21;FR2;Champagne-Ardenne
+FR22;FR2;Picardie
+FR23;FR2;Haute-Normandie
+FR24;FR2;Centre
+FR25;FR2;Basse-Normandie
+FR26;FR2;Bourgogne
+FR30;FR3;Nord - Pas-de-Calais
+FR41;FR4;Lorraine
+FR42;FR4;Alsace
+FR43;FR4;Franche-Comté
+FR51;FR5;Pays de la Loire
+FR52;FR5;Bretagne
+FR53;FR5;Poitou-Charentes
+FR61;FR6;Aquitaine
+FR62;FR6;Midi-Pyrénées
+FR63;FR6;Limousin
+FR71;FR7;Rhône-Alpes
+FR72;FR7;Auvergne
+FR81;FR8;Languedoc-Roussillon
+FR82;FR8;Provence-Alpes-Côte d'Azur
+FR83;FR8;Corse
+FR91;FR9;Guadeloupe
+FR92;FR9;Martinique
+FR93;FR9;Guyane
+FR94;FR9;Réunion
+GR11;GR1;Anatoliki Makedonia, Thraki
+GR12;GR1;Kentriki Makedonia
+GR13;GR1;Dytiki Makedonia
+GR14;GR1;Thessalia
+GR21;GR2;Ipeiros
+GR22;GR2;Ionia Nisia
+GR23;GR2;Dytiki Ellada
+GR24;GR2;Sterea Ellada
+GR25;GR2;Peloponnisos
+GR30;GR3;Attiki
+GR41;GR4;Voreio Aigaio
+GR42;GR4;Notio Aigaio
+GR43;GR4;Kriti
+HR01;HR0;Sredisnja Hrvatska
+HR02;HR0;Zagrebacka regija
+HR03;HR0;Jadranska Hrvatska
+HR04;HR0;Istocna Hrvatska
+HU10;HU1;Kozep-Magyarorszag
+HU21;HU2;Kozep-Dunantul
+HU22;HU2;Nyugat-Dunantul
+HU23;HU2;Del-Dunantul
+HU31;HU3;Eszak-Magyarorszag
+HU32;HU3;Eszak-Alfold
+HU33;HU3;Del-Alfold
+CH01;CH0;Région lémanique
+CH02;CH0;Espace Mittelland
+CH03;CH0;Nordwestschweiz
+CH04;CH0;Zürich
+CH05;CH0;Ostschweiz
+CH06;CH0;Zentralschweiz
+CH07;CH0;Ticino
+IE01;IE0;Border, Midland and Western
+IE02;IE0;Southern and Eastern
+IS00;IS0;Ísland
+ITC1;ITC;Piemonte
+ITC2;ITC;Valle d'Aosta/Vallée d'Aoste
+ITC3;ITC;Liguria
+ITC4;ITC;Lombardia
+ITD1;ITD;Provincia Autonoma Bolzano/Bozen
+ITD2;ITD;Provincia Autonoma Trento
+ITD3;ITD;Veneto
+ITD4;ITD;Friuli-Venezia Giulia
+ITD5;ITD;Emilia-Romagna
+ITE1;ITE;Toscana
+ITE2;ITE;Umbria
+ITE3;ITE;Marche
+ITE4;ITE;Lazio
+ITF1;ITF;Abruzzo
+ITF2;ITF;Molise
+ITF3;ITF;Campania
+ITF4;ITF;Puglia
+ITF5;ITF;Basilicata
+ITF6;ITF;Calabria
+ITG1;ITG;Sicilia
+ITG2;ITG;Sardegna
+LI00;LI0;Liechtenstein
+LT00;LT0;Lietuva
+LU00;LU0;Luxembourg
+LV00;LV0;Latvija
+ME0201;ME02;Bar I
+ME0202;ME02;Bar II
+ME0203;ME02;Bar III
+ME0204;ME02;Bar IV
+ME0205;ME02;Bar V
+ME0206;ME02;Šušanj 
+ME0207;ME02;Sutomore
+ME0208;ME02;Stari Bar
+ME0209;ME02;Mrko(je)vići
+ME0210;ME02;Krajina
+ME0211;ME02;Šestan
+ME0212;ME02;Crmnica
+MT00;MT0;Malta
+NL11;NL1;Groningen
+NL12;NL1;Friesland
+NL13;NL1;Drenthe
+NL21;NL2;Overijssel
+NL22;NL2;Gelderland
+NL23;NL2;Flevoland
+NL31;NL3;Utrecht
+NL32;NL3;Noord-Holland
+NL33;NL3;Zuid-Holland
+NL34;NL3;Zeeland
+NL41;NL4;Noord-Brabant
+NL42;NL4;Limburg (NL)
+NO01;NO0;Oslo og Akershus
+NO02;NO0;Hedmark og Oppland
+NO03;NO0;Sor-Ostlandet
+NO04;NO0;Agder og Rogaland
+NO05;NO0;Vestlandet
+NO06;NO0;Trondelag
+NO07;NO0;Nord-Norge
+PL11;PL1;Lodzkie
+PL12;PL1;Mazowieckie
+PL21;PL2;Malopolskie
+PL22;PL2;Slaskie
+PL31;PL3;Lubelskie
+PL32;PL3;Podkarpackie
+PL33;PL3;Swietokrzyskie
+PL34;PL3;Podlaskie
+PL41;PL4;Wielkopolskie
+PL42;PL4;Zachodniopomorskie
+PL43;PL4;Lubuskie
+PL51;PL5;Dolnoslaskie
+PL52;PL5;Opolskie
+PL61;PL6;Kujawsko-Pomorskie
+PL62;PL6;Warminsko-Mazurskie
+PL63;PL6;Pomorskie
+PT11;PT1;Norte
+PT15;PT1;Algarve
+PT16;PT1;Centro (P)
+PT17;PT1;Lisboa
+PT18;PT1;Alentejo
+PT20;PT2;Regiao Autónoma dos Açores
+PT30;PT3;Regiao Autónoma da Madeira
+RO01;RO0;Nord-Est
+RO02;RO0;Sud-Est
+RO03;RO0;Sud
+RO04;RO0;Sud-Vest
+RO05;RO0;Vest
+RO06;RO0;Nord-Vest
+RO07;RO0;Centru
+RO08;RO0;Bucuresti
+SE01;SE0;Stockholm
+SE02;SE0;Östra Mellansverige
+SE04;SE0;Sydsverige
+SE06;SE0;Norra Mellansverige
+SE07;SE0;Mellersta Norrland
+SE08;SE0;Övre Norrland
+SE09;SE0;Smaland med öarna
+SE0A;SE0;Västsverige
+SI00;SI0;Slovenija
+TR10 ;TR1;Istanbul
+TR21;TR2;Tekirdag
+TR22;TR2;Balikesir
+TR31;TR3;Izmir
+TR32;TR3;Aydin
+TR33;TR3;Manisa
+TR41;TR4;Bursa
+TR42;TR4;Kocaeli
+TR51;TR5;Ankara
+TR52;TR5;Konya
+TR61;TR6;Antalya
+TR62;TR6;Adana
+TR63;TR6;Hatay
+TR71;TR7;Kirikkale
+TR72;TR7;Kayseri
+TR81;TR8;Zonguldak
+TR82;TR8;Kastamonu
+TR83;TR8;Samsun
+TR90 ;TR9;Trabzon
+TRA1;TRA;Erzurum
+TRA2;TRA;Agri
+TRB1;TRB;Malatya
+TRB2;TRB;Van
+TRC1;TRC;Gaziantep
+TRC2;TRC;Şanliurfa
+TRC3;TRC;Mardin
+UKC1;UKC;Tees Valley and Durham
+UKC2;UKC;Northumberland and Tyne and Wear
+UKD1;UKD;Cumbria
+UKD2;UKD;Cheshire
+UKD3;UKD;Greater Manchester
+UKD4;UKD;Lancashire
+UKD5;UKD;Merseyside
+UKE1;UKE;East Riding and North Lincolnshire
+UKE2;UKE;North Yorkshire
+UKE3;UKE;South Yorkshire
+UKE4;UKE;West Yorkshire
+UKF1;UKF;Derbyshire and Nottinghamshire
+UKF2;UKF;Leicestershire, Rutland and Northamptonshire
+UKF3;UKF;Lincolnshire
+UKG1;UKG;Herefordshire, Worcestershire and Warwickshire
+UKG2;UKG;Shropshire and Staffordshire
+UKG3;UKG;West Midlands
+UKH1;UKH;East Anglia
+UKH2;UKH;Bedfordshire and Hertfordshire
+UKH3;UKH;Essex
+UKI1;UKI;Inner London
+UKI2;UKI;Outer London
+UKJ1;UKJ;Berkshire, Buckinghamshire and Oxfordshire
+UKJ2;UKJ;Surrey, East and West Sussex
+UKJ3;UKJ;Hampshire and Isle of Wight
+UKJ4;UKJ;Kent
+UKK1;UKK;Gloucestershire, Wiltshire and North Somerset
+UKK2;UKK;Dorset and Somerset
+UKK3;UKK;Cornwall and Isles of Scilly
+UKK4;UKK;Devon
+UKL1;UKL;West Wales and The Valleys
+UKL2;UKL;East Wales
+UKM1;UKM;North Eastern Scotland
+UKM2;UKM;Eastern Scotland
+UKM3;UKM;South Western Scotland
+UKM4;UKM;Highlands and Islands
+UKN0;UKN;Northern Ireland
+YU70017;YU19;Aleksandrovac
+YU70025;YU20;Aleksinac
+YU70033;YU12;Aranđelovac
+YU70041;YU16;Arilje
+YU70050;YU22;Babušnica
+YU70068;YU16;Bajina Bašta
+YU70076;YU12;Batočina
+YU70084;YU22;Bela Palanka
+YU70092;YU00;Beograd-Barajevo
+YU70106;YU00;Beograd-Voždovac
+YU70114;YU00;Beograd-Vračar
+YU70122;YU00;Beograd-Grocka
+YU70149;YU00;Beograd-Zvezdara
+YU70157;YU00;Beograd-Zemun
+YU70165;YU00;Beograd-Lazarevac
+YU70173;YU00;Beograd-Mladenovac
+YU70181;YU00;Beograd-Novi Beograd
+YU70190;YU00;Beograd-Obrenovac
+YU70203;YU00;Beograd-Palilula
+YU70211;YU00;Beograd-Rakovica
+YU70220;YU00;Beograd-Savski Venac
+YU70238;YU00;Beograd-Sopot
+YU70246;YU00;Beograd-Stari Grad
+YU70254;YU00;Beograd-Čukarica
+YU70262;YU21;Blace
+YU70289;YU08;Bogatić
+YU70297;YU23;Bojnik
+YU70319;YU15;Boljevac
+YU70327;YU14;Bor
+YU70335;YU24;Bosilegrad
+YU70343;YU19;Brus
+YU70351;YU24;Bujanovac
+YU70360;YU09;Valjevo
+YU70378;YU19;Varvarin
+YU70394;YU11;Veliko Gradište
+YU70408;YU08;Vladimirci
+YU70416;YU24;Vladičin Han
+YU70424;YU23;Vlasotince
+YU70432;YU24;Vranje
+YU70459;YU18;Vrnjačka Banja
+YU70467;YU20;Gadžin Han
+YU70475;YU11;Golubac
+YU70483;YU17;Gornji Milanovac
+YU70491;YU13;Despotovac
+YU70505;YU22;Dimitrovgrad
+YU70513;YU20;Doljevac
+YU70521;YU11;Žabari
+YU70530;YU11;Žagubica
+YU70548;YU21; Žitorađa
+YU70556;YU15;Zaječar
+YU70564;YU17;Ivanjica
+YU70572;YU14;Kladovo
+YU70599;YU12;Knić
+YU70602;YU15;Knjaževac
+YU70629;YU16;Kosjerić
+YU70637;YU08;Koceljeva
+YU70645;YU12;Kragujevac - grad
+YU70653;YU18;Kraljevo
+YU70661;YU08;Krupanj
+YU70670;YU19;Kruševac
+YU70688;YU21;Kuršumlija
+YU70696;YU11;Kučevo
+YU70700;YU09;Lajkovac
+YU70718;YU23;Lebane
+YU70726;YU23;Leskovac
+YU70734;YU08;Loznica
+YU70742;YU17;Lučani
+YU70769;YU09;Ljig
+YU70777;YU08;Ljubovija
+YU70785;YU14;Majdanpek
+YU70793;YU08;Mali Zvornik
+YU70807;YU11;Malo Crniće
+YU70815;YU23;Medveđa
+YU70823;YU20;Merošina
+YU70831;YU09;Mionica
+YU70840;YU14;Negotin
+YU70866;YU16;Nova Varoš
+YU70874;YU18;Novi Pazar
+YU70882;YU09;Osečina
+YU70904;YU13;Paraćin
+YU70912;YU11;Petrovac
+YU70939;YU22;Pirot
+YU70947;YU11;Požarevac
+YU70955;YU16;Požega 
+YU70963;YU24;Preševo
+YU70971;YU16;Priboj
+YU70980;YU16;Prijepolje
+YU70998;YU21;Prokuplje
+YU71005;YU20;Ražanj
+YU71013;YU12;Rača
+YU71021;YU18;Raška
+YU71030;YU13;Rekovac
+YU71048;YU13;Jagodina
+YU71056;YU13;Svilajnac
+YU71064;YU20;Svrljig
+YU71072;YU16;Sjenica
+YU71129;YU15;Sokobanja
+YU71137;YU24;Surdulica
+YU71145;YU16;Užice
+YU71153;YU12;Topola
+YU71161;YU24;Trgovište
+YU71170;YU19;Trstenik
+YU71188;YU18;Tutin
+YU71196;YU19;Ćićevac
+YU71200;YU13;Ćuprija
+YU71218;YU09;Ub
+YU71226;YU23;Crna Trava
+YU71234;YU16;Čajetina
+YU71242;YU17;Čačak
+YU71269;YU08;Šabac
+YU71277;YU12;Lapovo
+YU71285;YU20;Niš-Niška Banja
+YU71293;YU00;Beograd-Surčin
+YU71307;YU20;Niš-Pantelej
+YU71315;YU20;Niš-Crveni Krst
+YU71323;YU20;Niš-Palilula
+YU71331;YU20;Niš-Mediana
+YU80012;YU03;Ada
+YU80039;YU04;Alibunar
+YU80047;YU05;Apatin
+YU80055;YU06;Bač
+YU80063;YU06;Bačka Palanka
+YU80071;YU01;Bačka Topola
+YU80080;YU06;Bački Petrovac
+YU80098;YU04;Bela Crkva
+YU80101;YU06;Beočin
+YU80110;YU06;Bečej
+YU80128;YU04;Vršac
+YU80136;YU06;Žabalj
+YU80144;YU02;Žitište
+YU80152;YU02;Zrenjanin
+YU80179;YU07;Inđija
+YU80187;YU07;Irig
+YU80195;YU03;Kanjiža
+YU80209;YU03;Kikinda
+YU80217;YU04;Kovačica
+YU80225;YU04;Kovin
+YU80233;YU05;Kula
+YU80241;YU01;Mali Iđoš
+YU80250;YU02;Nova Crnja
+YU80268;YU02;Novi Bečej
+YU80276;YU03;Novi Kneževac
+YU80284;YU06;Novi Sad - grad
+YU80292;YU04;Opovo
+YU80306;YU05;Odžaci
+YU80314;YU04;Pančevo
+YU80322;YU07;Pećinci
+YU80349;YU04;Plandište
+YU80357;YU07;Ruma
+YU80365;YU03;Senta
+YU80373;YU02;Sečanj
+YU80381;YU05;Sombor
+YU80390;YU06;Srbobran
+YU80403;YU07;Sremska Mitrovica
+YU80411;YU06;Sremski Karlovci
+YU80420;YU07;Stara Pazova
+YU80438;YU01;Subotica
+YU80446;YU06;Temerin
+YU80454;YU06;Titel
+YU80462;YU06;Vrbas
+YU80489;YU03;Čoka
+YU80497;YU07;Šid
+YU90018;YU29;Vitina
+YU90026;YU28;Vučitrn
+YU90034;YU25;Glogovac
+YU90042;YU29;Gnjilane
+YU90069;YU26;Dečani
+YU90085;YU26;Đakovica 
+YU90093;YU28;Zubin Potok
+YU90107;YU26;Istok
+YU90115;YU25;Kačanik
+YU90123;YU26;Klina
+YU90131;YU25;Kosovo Polje
+YU90140;YU29;Kosovska Kamenica
+YU90158;YU28;Leposavić
+YU90166;YU25;Lipljan 
+YU90182;YU29;Novo Brdo
+YU90204;YU25;Obilić
+YU90212;YU27;Orahovac
+YU90239;YU26;Peć
+YU90247;YU25;Podujevo
+YU90255;YU27;Prizren
+YU90263;YU25;Priština - grad
+YU90271;YU28;Srbica
+YU90280;YU27;Suva Reka
+YU90298;YU28;Kosovska Mitrovica
+YU90301;YU25;Uroševac
+YU90310;YU25;Štimlje
+YU90328;YU25;Štrpce
+YU90336;YU27;Gora
+YU90352;YU28;Zvečan

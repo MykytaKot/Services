@@ -1,0 +1,96 @@
+<form method="POST"  action="/admin/functions/add">
+    <div class="row mb-3">
+        <div class="col">
+            <input type="text" name="key" class="form-control" placeholder="Kluc" id="kluc">
+        </div>
+        <div class="col">
+            <input type="text" name="name" class="form-control" placeholder="Nazov" id="nazov">
+        </div>
+        <div class="col">
+            <input type="text" name="desc" class="form-control" placeholder="Popis" id="popis">
+        </div>
+        <div class="col">
+            <button type="submit" class="btn btn-primary">+</button>
+        </div>
+    </div>
+</form>
+
+
+<!-- Table -->
+<script>
+        function toogle(id){
+           
+            $('.value-'+id).toggle();
+            $('.edit-'+id).toggle();
+            $('.save-button-'+id).toggle();
+
+
+        }
+
+        function updatehidden(id){
+            $('.'+id+'_key_out').val($('.'+id+'_key').val());
+            $('.'+id+'_name_out').val($('.'+id+'_name').val());
+            $('.'+id+'_desc_out').val($('.'+id+'_desc').val());
+        }
+   
+</script>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th scope="col" id="kluc">Kluc</th>
+            <th scope="col">Nazov</th>
+            <th scope="col">Popis</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    
+    <tbody>
+        <?
+        
+            foreach($this->functions as $function){
+        ?>
+        <tr>
+    <td><span class="value-<?= $function['_id']?>"><?= $function['key']?></span><input type="text" onkeyup="updatehidden('<?= $function['_id']?>')" class="edit-<?= $function['_id']?> form-control <?= $function['_id']?>_key" value="<?= $function['key']?>" style="display: none;"></td>
+    <td><span class="value-<?= $function['_id']?>"><?= $function['name']?></span><input type="text" onkeyup="updatehidden('<?= $function['_id']?>')" class="edit-<?= $function['_id']?> form-control <?= $function['_id']?>_name" value="<?= $function['name']?>" style="display: none;"></td>
+    <td><span class="value-<?= $function['_id']?>"><?= $function['desc']?></span><input type="text" onkeyup="updatehidden('<?= $function['_id']?>')" class="edit-<?= $function['_id']?> form-control <?= $function['_id']?>_desc" value="<?= $function['desc']?>" style="display: none;"></td>
+    <td style="display:flex; justify-content: flex-end;">
+     
+        <!-- Edit button -->
+        <div style="display:flex;">
+            <!-- Save button -->
+            <form action="/admin/functions/edit" method="post">
+                <input type="text" name="key" value="<?= $function['key']?>"  class="<?= $function['_id']?>_key_out" hidden>
+                <input type="text" name="name"  value="<?= $function['name']?>" class="<?= $function['_id']?>_name_out" hidden>
+                <input type="text" name="desc" value="<?= $function['desc']?>"  class="<?= $function['_id']?>_desc_out" hidden>
+                <input type="text" name="id" value="<?= $function['_id']?>" hidden>
+                <button type="submit" class="btn btn-success ms-2 save-button-<?= $function['_id']?>" style="display: none;">
+                    Save
+                </button>
+            </form>
+            <button type="button" onclick="toogle('<?= $function['_id']?>')" class="btn btn-primary ms-2  edit-button-<?= $function['_id']?>">
+                <i class="bi bi-pencil-square"></i>
+            </button>
+
+           
+
+            <!-- Delete button -->
+            <form action="/admin/functions/delete" method="post">
+                <input type="text" name="id" value="<?= $function['_id']?>" hidden>
+                <button type="submit" class="btn btn-danger ms-2">
+                    <i class="bi bi-trash"></i>
+                </button>
+            </form>
+        </div>
+    </td>
+    
+</tr>
+
+
+        <?
+            }
+        
+        ?>
+        
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+.*
+!.gitignore
+config/autoload/*.local.php
+config/autoload/local.php
+config/development.config.php
+install.sh
+nbproject/
+phpunit.xml
+rest_client/
+start.sh
+TODO.md
+vendor/

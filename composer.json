@@ -1,0 +1,67 @@
+{
+    "name": "laminas/skeleton-application",
+    "description": "Skeleton Application for Zend Framework zend-mvc applications",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "framework",
+        "mvc",
+        "zf"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.3",
+        "cocur/slugify": "^4.1",
+        "guzzlehttp/guzzle": "^7.2",
+        "laminas/laminas-component-installer": "^1.1 || ^2.1",
+        "laminas/laminas-dependency-plugin": "^1.0 || ^2.1",
+        "laminas/laminas-development-mode": "^3.2",
+        "laminas/laminas-dom": "^2.11",
+        "laminas/laminas-mail": "^2.10",
+        "laminas/laminas-mvc": "^3.1.1",
+        "mongodb/mongodb": "^1.4",
+        "mpdf/mpdf": "^8.0.10",
+        "spipu/html2pdf": "^5.2",
+        "squizlabs/php_codesniffer": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Application\\": "module/Application/src/",
+            "Realsoft\\": "module/Realsoft/src/",
+            "Location\\": "module/Location/src/",
+            "Reminder\\": "module/Reminder/src/",
+            "Aml\\":      "module/Aml/src/",
+            "Admin\\": "module/Admin/src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ApplicationTest\\": "module/Application/test/"
+        }
+    },
+    "extra": [],
+    "scripts": {
+        "cs-check": "phpcs",
+        "cs-fix": "phpcbf",
+        "development-disable": "laminas-development-mode disable",
+        "development-enable": "laminas-development-mode enable",
+        "development-status": "laminas-development-mode status",
+        "post-create-project-cmd": [
+            "@development-enable"
+        ],
+        "serve": "php -S 0.0.0.0:8080 -t public public/index.php",
+        "test": "phpunit"
+    },
+    "require-dev": {
+        "laminas/laminas-migration": "^1.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/package-versions-deprecated": true,
+            "laminas/laminas-dependency-plugin": true,
+            "laminas/laminas-component-installer": true
+        }
+    }
+}
